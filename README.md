@@ -1,7 +1,3 @@
-Here’s an improved version of your GitHub profile README, integrating key points about your learning journey, projects, and unique strengths:
-
----
-
 <a href="https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges" target="_blank" rel="noopener noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Coding Challenges Banner" style="width:100%;height:auto;position:absolute;top:0;left:0;z-index:999;" />
 </a>
