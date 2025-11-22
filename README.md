@@ -4,10 +4,13 @@
 </a>
 <br>
 <br>
-<!-- Typing SVG -->
+
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Shaikh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0000006&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Shaikh" alt="Typing SVG" />
 </p>
+
+---
 
 <!-- About Me -->
 # 💫 About Me:
