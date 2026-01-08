@@ -79,7 +79,7 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___abdullah.sk___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdulllah-shaikh-3165b5309/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cloudyab854@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___abdullah.sk___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://[www.linkedin.com/in/abdulllah-shaikh-3165b5309](https://www.linkedin.com/in/abdulllah-shaikh-3165b5309/)/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cloudyab854@gmail.com) 
 
 [![](https://visitcount.itsvg.in/api?id=Abdullah-Shaikh45&icon=0&color=13)](https://visitcount.itsvg.in)
 
